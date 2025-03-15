@@ -1,7 +1,7 @@
 # ElectricVehicles_Statistical_Analysis_Washingtonstate
 ## Project Overview
 
-Electric vehicles have been revolutionising the world, and as part of sustainability, individuals are shifting towards EV adoption. On the other hand, technological advancements, such as self-driving capabilities, are further reshaping the EV landscape. With this, it becomes essential that we analyse the patterns and trends for future developments and adoption of EVs. This led to the beginning of the analysis, where I utilised a sourced dataset of registered EVs through the Washington State Department of Licensing. 
+Electric vehicles have been revolutionising the world, and as part of sustainability, individuals are shifting towards EV adoption. On the other hand, technological advancements, such as self-driving capabilities, are further reshaping the EV landscape. With this, it becomes essential that we analyse the patterns and trends for future developments and adoption of EVs. This led to the beginning of the analysis, where I utilised an open-source dataset of registered EVs through the Washington State Department of Licensing. For the analysis purpose IBM SPSS application has been utilised to perform the statistical tests. 
 
 The main objective of the analysis involves:
 1. To examine the relationship between Electric Vehicle type, Battery Range, Clean Alternative Fuel Vehicle (CAFV) Eligibility, Make(Brand of the EV), Model
